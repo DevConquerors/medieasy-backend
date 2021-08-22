@@ -1,13 +1,13 @@
 {
-  "name": "rest-api-starting-template",
+  "name": "medieasy-backend",
   "version": "1.0.0",
-  "description": "This is a simple template for a REST api",
+  "description": "backend for medieasy",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
-  "author": "Bijoy-Prodip",
+  "author": "Devcon",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
